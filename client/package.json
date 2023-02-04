@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@craco/craco": "^7.0.0",
+    "@craco/types": "^7.0.0"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test"
+  }
+}
